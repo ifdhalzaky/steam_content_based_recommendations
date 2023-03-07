@@ -124,12 +124,12 @@ I combine the three similarity identifier to be calculated in TF-IDF Vectorizer
 
 ![gambar](https://user-images.githubusercontent.com/52767438/223324057-cb70993a-2881-4dd8-8011-7101b58613f0.png)
 
-The recommendation result of the algoriithm, seems good enough. But because I more prefer to find the most similar games first then I sorted by weighted rating, the games that has been recommended are
+The recommendation result of the algoriithm, seems good enough. But because I more prefer to find the most similar games first then I sorted by weighted rating, the games that has been recommended are seems not really poplar among gamers. especially the last 5 recommended games. So, maybe it still need an improvement.
 
 ## Notes
 ### Potential of Improvement
-1. Try another similarity metrix out there. There are similar algorithm like cosine similarity such jaccard similarity, euclidean distance, manhattan distance, etc.
-2. The data preparation process that I did is one of the rushing process because I did this project only in one day. Perhaps it could be enhanced to be better. The ones that I can think of are text cleaning process, adding data source such as number of players, popularity of the game could be added, and maybe the sorting preference can be based weighted rating first then sort by similarity.
+1. Try another similarity metrix out there. There are similar algorithm like cosine similarity such as jaccard similarity, euclidean distance, manhattan distance, etc.
+2. The data preparation process that I did is one of the rushing process because I did this project only in one day. Perhaps it could be enhanced to be better. The ones that I can think of are text cleaning process, adding data source such as number of players, popularity of the game could be added, and maybe the sorting preferences can be based weighted rating first then sort by similarity.
 3. This data can be given a separate ID to make it easier to identify game recommendations to be analyzed.
 4. Try another null treatment to the data.
 

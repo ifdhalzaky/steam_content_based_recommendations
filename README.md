@@ -109,7 +109,7 @@ I combine the three similarity identifier to be calculated in TF-IDF Vectorizer
 
 ### Content Based Recommendation Function
 
-![gambar](https://user-images.githubusercontent.com/52767438/226157611-fb7acd25-979d-4d89-b920-658fde50a162.png)
+![gambar](https://user-images.githubusercontent.com/52767438/226158190-2264e079-477e-434c-836c-102029682caa.png)
 
 ## Example Result
 - Result 1 for game "DOOM":
